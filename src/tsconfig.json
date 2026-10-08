@@ -6,6 +6,5 @@
    "esModuleInterop": true,
    "skipLibCheck": true
  },
- "include": ["src"]
+ "include": ["*.ts"]
 }
-
