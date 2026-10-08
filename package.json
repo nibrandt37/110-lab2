@@ -3,7 +3,9 @@
     "vitest": "^5.0.3"
   },
   "scripts": {
-  "test": "vitest run"
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "typescript": "^7.0.2"
   }
-
 }
