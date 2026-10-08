@@ -2,7 +2,7 @@ import {printBold} from './animation.ts';
 export let snacks: string[] = ["chips", "guacamole", "veggie plate", "chocolate", "banana", "brownies", "Doritos"];
 
 export function displaySnacks(snackList: string[]): void{
-	printBold('Party Time! Snacks:');
+	printBold('Party Time!! Snacks:');
 	console.log(snackList);
 }
 
