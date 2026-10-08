@@ -1,6 +1,6 @@
-import {displaySnacks, snacks} from "./snacks.ts";
+import {displaySnacks, snacks} from "./snacks";
 
 displaySnacks(snacks);
-import { music, printMusic } from "./music.ts";
+import { music, printMusic } from "./music";
 
 printMusic(music);

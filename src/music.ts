@@ -1,4 +1,4 @@
-import { printBold } from "./animation.ts";
+import { printBold } from "./animation";
 export { music, printMusic };
 
 let music: string[] = ["Beauty Sleep", "Rare N' Deluxe", "Northwest zombie girl"];
